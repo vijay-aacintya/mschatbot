@@ -13,3 +13,5 @@ However, I encountered some limitations. There were too many PDFs, and the free 
 **Python-based:** Entirely coded in Python.<br>
 
 In any project creating the virtual environment is critical, most of the errors originate there. So I have provided a comprehensive requirements.txt. Create your Virtual Environment using this file.
+
+![mschatbot1](https://github.com/user-attachments/assets/8da06012-6e72-4871-897f-56cb4eb1709e)
