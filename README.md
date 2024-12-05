@@ -7,7 +7,7 @@ Understanding and complying with Microsoft Licensing Agreements can be quite cha
 However, I encountered some limitations. There were too many PDFs, and the free version of Groq restricted the number of tokens processed per minute and the size of the chunks. Consequently, I had to significantly reduce the number of files for processing. For this project, I used only three files from the website Microsoft Licensing Programs. If you can afford to increase your limits, you could potentially query the entire set of agreements using this tool.
 
 ## Features
-**Website Interaction:** The chatbot uses LangChain and HuggingFace to interact with and extract information from various websites.
-**Large Language Model Integration:** Compatibility with models like GPT-4, Mistral, Llama2, and ollama. In this code I am using Llama2, but you can change it to any other model.
-**Streamlit GUI:** A clean and intuitive user interface built with Streamlit, making it accessible for users with varying levels of technical expertise.
-**Python-based:** Entirely coded in Python.
+**Website Interaction:** The chatbot uses LangChain and HuggingFace to interact with and extract information from various websites.<br>
+**Large Language Model Integration:** Compatibility with models like GPT-4, Mistral, Llama2, and ollama. In this code I am using Llama2, but you can change it to any other model.<br>
+**Streamlit GUI:** A clean and intuitive user interface built with Streamlit, making it accessible for users with varying levels of technical expertise.<br>
+**Python-based:** Entirely coded in Python.<br>
