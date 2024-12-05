@@ -15,3 +15,5 @@ However, I encountered some limitations. There were too many PDFs, and the free 
 In any project creating the virtual environment is critical, most of the errors originate there. So I have provided a comprehensive requirements.txt. Create your Virtual Environment using this file.
 
 ![mschatbot1](https://github.com/user-attachments/assets/8da06012-6e72-4871-897f-56cb4eb1709e)
+
+![mschatbot2](https://github.com/user-attachments/assets/aad5f305-ba8a-4776-95c2-2216db714b0f)
