@@ -19,3 +19,5 @@ In any project creating the virtual environment is critical, most of the errors 
 ![mschatbot2](https://github.com/user-attachments/assets/aad5f305-ba8a-4776-95c2-2216db714b0f)
 
 ![mschatbot3](https://github.com/user-attachments/assets/e878fd1f-8529-4578-b483-cf0e9310b693)
+
+**Note:** This project is for educational and research purposes. Ensure to comply with the terms of use and guidelines of the utilized APIs and services.
