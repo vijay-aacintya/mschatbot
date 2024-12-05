@@ -11,3 +11,5 @@ However, I encountered some limitations. There were too many PDFs, and the free 
 **Large Language Model Integration:** Compatibility with models like GPT-4, Mistral, Llama2, and ollama. In this code I am using Llama2, but you can change it to any other model.<br>
 **Streamlit GUI:** A clean and intuitive user interface built with Streamlit, making it accessible for users with varying levels of technical expertise.<br>
 **Python-based:** Entirely coded in Python.<br>
+
+In any project creating the virtual environment is critical, most of the errors originate there. So I have provided a comprehensive requirements.txt. Create your Virtual Environment using this file.
